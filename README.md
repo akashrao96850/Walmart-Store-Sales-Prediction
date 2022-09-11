@@ -1,5 +1,5 @@
 # Predicting-Walmart-Store-Sales
-Case Study - Retail
+# Case Study - Retail
 
 ## BUSINESS PROBLEM :
 
